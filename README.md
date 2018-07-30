@@ -1,7 +1,5 @@
 <h1>Simple email spammer for Python 3</h1>
 
-----
-
 <h3>USAGE</h3>
 
 1. Make sure to have less secure apps turned on for Google. This allows your account to be accessed by this email program.
